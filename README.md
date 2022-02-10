@@ -21,6 +21,7 @@
 ###### Iniciar:
 ```
   . Necessario criar conta no MailTrap para testar o envio de e-mail.
+  . No arquivo providers/implementations/MailtrapMailProvider.ts colocar no auth linhas 13 e 14 seu user e pass gerados no site MailTrap.
 ```
 
 ###### Utilizacao:
